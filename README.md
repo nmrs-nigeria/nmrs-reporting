@@ -4,4 +4,4 @@ Configuration module for the NMRS distribution
 
 This module provides the following configuration for all report:
 * Line listing and other reports
-* It alos requires the latest medatamodule
+* It also requires the latest medatamodule

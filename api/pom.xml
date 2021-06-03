@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.openmrs.module</groupId>
-		<artifactId>nmrsmetadata</artifactId>
+		<artifactId>nmrsreports</artifactId>
 		<version>1.0.2-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>nmrsmetadata-api</artifactId>
+	<artifactId>nmrsreports-api</artifactId>
 	<packaging>jar</packaging>
-	<name>NMRS Metatadat Module  API</name>
+	<name>NMRS Report Module  API</name>
 	<description>API project for NMRS Metatadat Module </description>
 
 	<dependencies>

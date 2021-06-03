@@ -3,19 +3,19 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.openmrs.module</groupId>
-		<artifactId>nmrsmetadata</artifactId>
+		<artifactId>nmrsreports</artifactId>
 		<version>1.0.2-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>nmrsmetadata-omod</artifactId>
+	<artifactId>nmrsreports-omod</artifactId>
 	<packaging>jar</packaging>
-	<name>NMRS Metatadat Module  OMOD</name>
-	<description>Omod submodule for NMRS Metatadat Module </description>
+	<name>NMRS Report Module  OMOD</name>
+	<description>Omod submodule for NMRS Report Module </description>
 
 	<dependencies>
         <dependency>
             <groupId>org.openmrs.module</groupId>
-            <artifactId>nmrsmetadata-api</artifactId>
+            <artifactId>nmrsreports-api</artifactId>
             <version>1.0.2-SNAPSHOT</version>
         </dependency>
 		<dependency>

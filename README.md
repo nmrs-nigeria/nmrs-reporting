@@ -1,8 +1,7 @@
-[![Build Status](https://travis-ci.org/nmrs-nigeria/openmrs-module-nmrsmetadata.svg?branch=master)](https://travis-ci.org/github/nmrs-nigeria/openmrs-module-nmrsmetadata)
-# openmrs-module-nmrsmetadata
+[![Build Status](https://travis-ci.org/nmrs-nigeria/openmrs-module-nmrsmetadatanmrs-reporting.svg?branch=master)](https://travis-ci.org/github/nmrs-nigeria/nmrs-reporting)
+# openmrs-module-reporting
 Configuration module for the NMRS distribution
 
-This module provides the following configuration meta-data:
-* Data Entry Forms
-* Patient Identifiers - definition of different patient identifiers used across the service points
-* Concepts
+This module provides the following configuration for all report:
+* Line listing and other reports
+* It alos requires the latest medatamodule

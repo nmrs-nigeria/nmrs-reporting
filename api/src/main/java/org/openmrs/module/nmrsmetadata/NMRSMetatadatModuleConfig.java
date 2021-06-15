@@ -14,5 +14,5 @@ package org.openmrs.module.nmrsmetadata;
  */
 public class NMRSMetatadatModuleConfig {
 	
-	public final static String MODULE_PRIVILEGE = "NMRS Metatadat Module  Privilege";
+	public final static String MODULE_PRIVILEGE = "NMRS Report Module  Privilege";
 }

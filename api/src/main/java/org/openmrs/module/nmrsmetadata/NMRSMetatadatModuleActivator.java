@@ -28,9 +28,9 @@ public class NMRSMetatadatModuleActivator extends BaseModuleActivator {
 	 * @see #started()
 	 */
 	public void started() {
-		new HtmlFormsInitializer().started();
+		//new HtmlFormsInitializer().started();
 		new ReportsInitializer().started();
-		new JsonFormsInitializer().started();
+		//new JsonFormsInitializer().started();
 		
 		// set visit handler
 		GlobalProperty globalProperty = Context.getAdministrationService().getGlobalPropertyObject(
